@@ -74,7 +74,7 @@
   <rect width="100%" height="100%" fill="url(#skyGradient)" />
   
   <!-- Stars -->
-  <circle cx="188.36059181534424" cy="14.438327634880206" r="0.4028997030717979" fill="white" opacity="0.7775828286704782"/><circle cx="539.9045844350624" cy="91.65274936341055" r="1.0999932892094881" fill="white" opacity="0.3807934056612743"/><circle cx="529.4296695535195" cy="297.8951071574959" r="0.6460030821527905" fill="white" opacity="0.799872808773672"/><circle cx="417.1751171271691" cy="138.09918180133934" r="0.6447968845636114" fill="white" opacity="0.48599558339192317"/><circle cx="18.41021460357375" cy="111.59878696346975" r="0.4767462209928569" fill="white" opacity="0.4701411008673624"/><circle cx="105.02262436361" cy="93.8441465673975" r="0.8274409049844828" fill="white" opacity="0.08801959129899983"/><circle cx="92.55662192801265" cy="181.64162092151943" r="0.3244923361359382" fill="white" opacity="0.3861356771413025"/><circle cx="313.0308335935657" cy="205.91484177098135" r="1.4382820151689688" fill="white" opacity="0.17941585693215267"/><circle cx="177.30616336514834" cy="185.466410149932" r="1.114469651195983" fill="white" opacity="0.8640727851944527"/><circle cx="449.95202309812396" cy="232.0432220070598" r="1.183145800888091" fill="white" opacity="0.07728093823033477"/><circle cx="704.5675498702755" cy="132.5617078844545" r="0.48961560573062146" fill="white" opacity="0.9762607757720729"/><circle cx="44.28450028647397" cy="54.7470967932406" r="0.6382712005900405" fill="white" opacity="0.9207739390984346"/><circle cx="613.1061805066727" cy="213.85834910472911" r="0.3283578857010283" fill="white" opacity="0.16462582826567518"/><circle cx="127.04613005235323" cy="243.7520178882559" r="1.0726704952936599" fill="white" opacity="0.780310495535357"/><circle cx="578.081777761054" cy="147.631448915943" r="1.2835847216842107" fill="white" opacity="0.850161840352919"/><circle cx="16.305735525916276" cy="339.378026052901" r="0.7002603140732689" fill="white" opacity="0.4149523884646551"/><circle cx="201.7078746857841" cy="164.544226477407" r="0.1502325247268086" fill="white" opacity="0.15783503873950777"/><circle cx="7.349628490085713" cy="192.61362558289338" r="0.5913546557824434" fill="white" opacity="0.7718628838413797"/><circle cx="550.2991741242176" cy="85.59226312306188" r="0.37993308255005953" fill="white" opacity="0.8456060460075769"/><circle cx="201.62552303409598" cy="86.49272831909076" r="0.8209074035624393" fill="white" opacity="0.5714627671172963"/><circle cx="538.1711670727542" cy="226.41168406999532" r="1.34930329079168" fill="white" opacity="0.9820751828054599"/><circle cx="64.68258262093549" cy="32.054542332612336" r="0.4658915349133137" fill="white" opacity="0.15223032221724342"/><circle cx="504.2228490613937" cy="348.87932534187075" r="0.5199884189812913" fill="white" opacity="0.6978434408313248"/><circle cx="718.877796854162" cy="159.66293957729613" r="0.24037916855094044" fill="white" opacity="0.986011939539766"/><circle cx="160.386743489104" cy="101.80478934716542" r="1.327516007457708" fill="white" opacity="0.2170358437489046"/><circle cx="331.753325169802" cy="310.83624612676306" r="0.6549880827690061" fill="white" opacity="0.22352880797490715"/><circle cx="17.018063185647847" cy="110.31455524275457" r="1.2315018650913196" fill="white" opacity="0.1263987701474938"/><circle cx="765.7777814113924" cy="190.25145953589552" r="0.36375909414272045" fill="white" opacity="0.3115067439510102"/><circle cx="414.0629728007658" cy="49.75265583704119" r="0.112620003182485" fill="white" opacity="0.13540757584867924"/><circle cx="307.9961132686615" cy="131.4019824557176" r="1.235661672274425" fill="white" opacity="0.17706211039392872"/>
+  <circle cx="690.1229658815597" cy="204.54260727993852" r="0.15392667232673662" fill="white" opacity="0.9108959892888575"/><circle cx="668.2964469072637" cy="327.6159451275272" r="1.015767496411745" fill="white" opacity="0.28570724116997614"/><circle cx="117.24698617362357" cy="167.71025171421496" r="0.5491240132446522" fill="white" opacity="0.013634462623891341"/><circle cx="725.2677645066128" cy="349.9580273279483" r="0.2778708187169777" fill="white" opacity="0.16864168486020814"/><circle cx="250.48192307475006" cy="1.3841264594406333" r="0.6939470442257282" fill="white" opacity="0.1820004396201209"/><circle cx="466.2486843003368" cy="39.667238670033974" r="1.1587788998886892" fill="white" opacity="0.25269217476103845"/><circle cx="694.1178662438556" cy="203.49701164229222" r="0.5916964111241206" fill="white" opacity="0.3855907427941172"/><circle cx="481.30432229081333" cy="249.8497560975985" r="0.003692857902835578" fill="white" opacity="0.3151315592367605"/><circle cx="25.563463619809212" cy="4.813958320259024" r="0.34108224985290025" fill="white" opacity="0.7843174867218576"/><circle cx="236.94493516507987" cy="241.79900378405537" r="0.9032035726267286" fill="white" opacity="0.26417809094447287"/><circle cx="433.42316866450335" cy="206.60709969233412" r="1.4785281820557807" fill="white" opacity="0.25859286475564325"/><circle cx="154.61173620907206" cy="183.61235381494828" r="1.3883783289506393" fill="white" opacity="0.23689798395179862"/><circle cx="14.468653860021519" cy="267.2172627979836" r="0.22434096568916084" fill="white" opacity="0.082340902345031"/><circle cx="548.3885393102621" cy="343.5485017155999" r="0.12374895309874667" fill="white" opacity="0.4630497209030402"/><circle cx="433.64152064183196" cy="152.03861748725632" r="0.40090667645662936" fill="white" opacity="0.4351398083734832"/><circle cx="655.1577548149204" cy="219.58301652405044" r="0.2075706899184503" fill="white" opacity="0.21777314365064715"/><circle cx="537.7352449116349" cy="312.2572491063538" r="0.801086064421382" fill="white" opacity="0.7830911421984526"/><circle cx="169.5769751630703" cy="272.58677600603005" r="0.9832512105525785" fill="white" opacity="0.103791533289332"/><circle cx="618.0138083627526" cy="245.44102669927352" r="0.5468345066289466" fill="white" opacity="0.7201798313898413"/><circle cx="637.8477249558841" cy="340.12751435138415" r="1.0262218547751512" fill="white" opacity="0.29339934415126345"/><circle cx="20.32669884094247" cy="262.3891767747139" r="0.986137225543517" fill="white" opacity="0.9803817161023383"/><circle cx="582.0987615546715" cy="27.37438175932235" r="0.414074945915859" fill="white" opacity="0.37205935031498116"/><circle cx="100.27982946865777" cy="178.6220741564704" r="1.2162803228928576" fill="white" opacity="0.3144186590449507"/><circle cx="736.361451556615" cy="117.69910417195841" r="1.222720989907613" fill="white" opacity="0.2211067882993767"/><circle cx="341.26410671036354" cy="348.37172841175675" r="0.11456385884161469" fill="white" opacity="0.46442384404228254"/><circle cx="747.4472561035756" cy="175.82218667920134" r="1.1541326056350143" fill="white" opacity="0.21843153894017098"/><circle cx="526.1897427771856" cy="168.48237593544468" r="1.3683184167554225" fill="white" opacity="0.8098787447042923"/><circle cx="376.81392366941486" cy="97.66909853294464" r="1.0756213439945697" fill="white" opacity="0.2592763531594555"/><circle cx="11.142250286942534" cy="247.38094984205622" r="0.20545212511185318" fill="white" opacity="0.05808132986596837"/><circle cx="301.9580175842542" cy="186.82383656067105" r="0.5751043304533462" fill="white" opacity="0.31516035940631193"/>
 
   <!-- Perspective Floor Grid (Simulated) -->
   <g transform="translate(0, 300) scale(1, 0.5)">
@@ -87,7 +87,7 @@
   <!-- City Label / Branding -->
   <g transform="translate(40, 60)">
       <text fill="cyan" font-family="Verdana, sans-serif" font-size="28" font-weight="900" style="text-shadow: 0 0 10px cyan;">STEPHEN CHENG CITY</text>
-      <text y="25" fill="#ff00cc" font-family="Courier New, monospace" font-size="14" font-weight="bold" letter-spacing="2">POP: 14 // BLOCKS: 17</text>
+      <text y="25" fill="#ff00cc" font-family="Courier New, monospace" font-size="14" font-weight="bold" letter-spacing="2">POP: 14 // BLOCKS: 21</text>
   </g>
 
   <!-- The Buildings -->
@@ -110,7 +110,7 @@
                      <path d="M 415 197.5933333333333 l 0 95.24 l -15 7.5 l 0 -95.24 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 404 277.3333333333333 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 279.3333333333333 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 267.3333333333333 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 269.3333333333333 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 259.3333333333333 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 247.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 237.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 239.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 227.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 217.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 219.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 209.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" />
+                     <path d="M 404 277.3333333333333 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 279.3333333333333 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 267.3333333333333 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 269.3333333333333 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 249.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 239.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 227.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 219.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 207.33333333333331 l 7 4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 209.33333333333331 l 7 -4" stroke="#E0FFF1" stroke-width="2" stroke-opacity="0.4" />
                      
 
                      <!-- Tooltip -->
@@ -124,16 +124,16 @@
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="424" cy="302.2608333333333" rx="14.7825" ry="7.884" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="424" cy="303.37833333333333" rx="18.134999999999998" ry="9.672" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 414.145 282.2608333333333 l 0 20 l 9.855 4.9275 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
-                     <path d="M 433.855 282.2608333333333 l 0 20 l -9.855 4.9275 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
-                     <path d="M 424 277.3333333333333 l 9.855 4.9275 l -9.855 4.9275 l -9.855 -4.9275 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
+                     <path d="M 411.91 283.37833333333333 l 0 20 l 12.09 6.045 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
+                     <path d="M 436.09 283.37833333333333 l 0 20 l -12.09 6.045 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
+                     <path d="M 424 277.3333333333333 l 12.09 6.045 l -12.09 6.045 l -12.09 -6.045 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 414.145 282.2608333333333 l 0 20 l 9.855 4.9275 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 433.855 282.2608333333333 l 0 20 l -9.855 4.9275 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 411.91 283.37833333333333 l 0 20 l 12.09 6.045 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 436.09 283.37833333333333 l 0 20 l -12.09 6.045 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
@@ -145,7 +145,7 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/repo-verse" target="_blank">
+            <a href="https://github.com/zintaen/huashu-design" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.1s" fill="freeze" />
                      
@@ -153,25 +153,25 @@
                      <ellipse cx="376" cy="304.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 361 284.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 391 284.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 376 277.3333333333333 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
+                     <path d="M 361 104.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 391 104.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 376 97.33333333333331 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 361 284.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 391 284.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 361 104.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 391 104.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     
+                     <path d="M 380 289.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 291.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 269.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 271.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 261.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 249.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 251.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 239.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 241.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 229.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 231.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 219.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 221.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 199.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 201.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 191.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 179.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 181.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 171.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 159.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 161.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 151.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 139.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 141.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 129.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 119.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 109.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 111.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
                      
 
                      <!-- Tooltip -->
-                     <title>repo-verse (TypeScript) | Stars: 0</title>
+                     <title>huashu-design (null) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/zintaen/EverOS" target="_blank">
+            <a href="https://github.com/zintaen/harper" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15000000000000002s" fill="freeze" />
                      
@@ -188,16 +188,16 @@
                      <path d="M 463 116.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 452 301.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 303.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 283.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 273.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 261.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 263.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 251.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 253.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 241.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 231.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 233.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 221.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 223.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 211.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 201.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 203.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 191.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 181.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 183.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 171.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 173.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 161.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 163.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 141.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 143.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 131.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 133.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 121.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 123.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
+                     <path d="M 452 301.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 303.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 291.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 293.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 281.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 283.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 271.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 263.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 251.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 253.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 241.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 243.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 233.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 221.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 223.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 211.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 213.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 203.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 171.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 163.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 151.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 153.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 141.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 143.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 131.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 121.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 123.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
                      
 
                      <!-- Tooltip -->
-                     <title>EverOS (null) | Stars: 0</title>
+                     <title>harper (null) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/zintaen/code-review-graph" target="_blank">
+            <a href="https://github.com/zintaen/E2B" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze" />
                      
@@ -205,65 +205,39 @@
                      <ellipse cx="400" cy="316.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 385 204.89333333333332 l 0 111.94 l 15 7.5 l 0 -111.94 z" fill="url(#gradLeft-energetic)" stroke="none" />
-                     <path d="M 415 204.89333333333332 l 0 111.94 l -15 7.5 l 0 -111.94 z" fill="url(#gradRight-energetic)" stroke="none" />
-                     <path d="M 400 197.39333333333332 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     <path d="M 385 116.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 415 116.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 400 109.33333333333331 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 385 204.89333333333332 l 0 111.94 l 15 7.5 l 0 -111.94 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 415 204.89333333333332 l 0 111.94 l -15 7.5 l 0 -111.94 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 385 116.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 415 116.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 404 301.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 303.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 291.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 293.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 281.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 283.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 271.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 273.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 261.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 253.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 241.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 243.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 231.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 233.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 211.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" />
+                     <path d="M 404 291.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 281.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 271.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 273.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 263.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 251.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 241.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 231.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 233.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 221.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 223.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 211.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 203.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 191.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 181.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 171.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 161.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 163.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 153.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 141.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 143.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 131.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 133.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 121.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" />
                      
 
                      <!-- Tooltip -->
-                     <title>code-review-graph (null) | Stars: 0</title>
-                </g>
-            </a>
-        
-
-            <a href="https://github.com/zintaen/live-suggestions" target="_blank">
-                <g class="building" opacity="0">
-                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.25s" fill="freeze" />
-                     
-                     <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="352" cy="315.2058333333333" rx="17.6175" ry="9.395999999999999" fill="black" opacity="0.4" blur="2" />
-
-                     <!-- Structure -->
-                     <path d="M 340.255 295.2058333333333 l 0 20 l 11.745 5.8725 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 363.745 295.2058333333333 l 0 20 l -11.745 5.8725 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 352 289.3333333333333 l 11.745 5.8725 l -11.745 5.8725 l -11.745 -5.8725 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
-                     
-                     <!-- Glow Edge -->
-                     <path d="M 340.255 295.2058333333333 l 0 20 l 11.745 5.8725 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 363.745 295.2058333333333 l 0 20 l -11.745 5.8725 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-
-                     <!-- Details -->
-                     
-                     
-
-                     <!-- Tooltip -->
-                     <title>live-suggestions (TypeScript) | Stars: 0</title>
+                     <title>E2B (null) | Stars: 0</title>
                 </g>
             </a>
         
 
             <a href="https://github.com/zintaen/chalk" target="_blank">
                 <g class="building" opacity="0">
-                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30000000000000004s" fill="freeze" />
+                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.25s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="472" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="352" cy="316.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 457 307.49333333333334 l 0 21.34 l 15 7.5 l 0 -21.34 z" fill="url(#gradLeft-energetic)" stroke="none" />
-                     <path d="M 487 307.49333333333334 l 0 21.34 l -15 7.5 l 0 -21.34 z" fill="url(#gradRight-energetic)" stroke="none" />
-                     <path d="M 472 299.99333333333334 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     <path d="M 337 295.49333333333334 l 0 21.34 l 15 7.5 l 0 -21.34 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 367 295.49333333333334 l 0 21.34 l -15 7.5 l 0 -21.34 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 352 287.99333333333334 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 457 307.49333333333334 l 0 21.34 l 15 7.5 l 0 -21.34 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 487 307.49333333333334 l 0 21.34 l -15 7.5 l 0 -21.34 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 337 295.49333333333334 l 0 21.34 l 15 7.5 l 0 -21.34 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 367 295.49333333333334 l 0 21.34 l -15 7.5 l 0 -21.34 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
@@ -275,7 +249,33 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/zintaen" target="_blank">
+            <a href="https://github.com/zintaen/claude-mem" target="_blank">
+                <g class="building" opacity="0">
+                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30000000000000004s" fill="freeze" />
+                     
+                     <!-- Shadow (Simple Ellipse approx) -->
+                     <ellipse cx="472" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+
+                     <!-- Structure -->
+                     <path d="M 457 128.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 487 128.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 472 121.33333333333331 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     
+                     <!-- Glow Edge -->
+                     <path d="M 457 128.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 487 128.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+
+                     <!-- Details -->
+                     <path d="M 476 313.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 315.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 303.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 293.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 295.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 283.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 285.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 273.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 275.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 265.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 253.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 243.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 245.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 233.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 235.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 223.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 225.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 213.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 203.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 205.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 193.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 195.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 183.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 185.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 173.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 175.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 165.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 153.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 155.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 145.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 133.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 135.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
+                     
+
+                     <!-- Tooltip -->
+                     <title>claude-mem (null) | Stars: 0</title>
+                </g>
+            </a>
+        
+
+            <a href="https://github.com/zintaen/repo-verse" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.35000000000000003s" fill="freeze" />
                      
@@ -283,25 +283,25 @@
                      <ellipse cx="424" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 409 193.2533333333333 l 0 135.58 l 15 7.5 l 0 -135.58 z" fill="url(#gradLeft-energetic)" stroke="none" />
-                     <path d="M 439 193.2533333333333 l 0 135.58 l -15 7.5 l 0 -135.58 z" fill="url(#gradRight-energetic)" stroke="none" />
-                     <path d="M 424 185.7533333333333 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     <path d="M 409 308.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 439 308.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 424 301.3333333333333 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 409 193.2533333333333 l 0 135.58 l 15 7.5 l 0 -135.58 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 439 193.2533333333333 l 0 135.58 l -15 7.5 l 0 -135.58 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 409 308.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 439 308.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 428 313.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 303.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 295.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 285.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 273.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 275.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 263.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 265.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 253.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 255.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 245.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 233.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 235.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 223.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 225.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 213.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 215.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 205.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
+                     
                      
 
                      <!-- Tooltip -->
-                     <title>zintaen (null) | Stars: 0</title>
+                     <title>repo-verse (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/zintaen/my-cv" target="_blank">
+            <a href="https://github.com/zintaen/code-review-graph" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.4s" fill="freeze" />
                      
@@ -309,25 +309,25 @@
                      <ellipse cx="376" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 361 184.89333333333332 l 0 143.94 l 15 7.5 l 0 -143.94 z" fill="url(#gradLeft-stressed)" stroke="none" />
-                     <path d="M 391 184.89333333333332 l 0 143.94 l -15 7.5 l 0 -143.94 z" fill="url(#gradRight-stressed)" stroke="none" />
-                     <path d="M 376 177.39333333333332 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFD1E0" fill-opacity="0.9" stroke="none" />
+                     <path d="M 361 216.89333333333332 l 0 111.94 l 15 7.5 l 0 -111.94 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 391 216.89333333333332 l 0 111.94 l -15 7.5 l 0 -111.94 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 376 209.39333333333332 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 361 184.89333333333332 l 0 143.94 l 15 7.5 l 0 -143.94 z" fill="none" stroke="#FF2A6D" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 391 184.89333333333332 l 0 143.94 l -15 7.5 l 0 -143.94 z" fill="none" stroke="#FF2A6D" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 361 216.89333333333332 l 0 111.94 l 15 7.5 l 0 -111.94 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 391 216.89333333333332 l 0 111.94 l -15 7.5 l 0 -111.94 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 380 313.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 315.3333333333333 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 303.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 305.3333333333333 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 293.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 283.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 285.3333333333333 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 273.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 263.3333333333333 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 265.3333333333333 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 255.33333333333331 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 243.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 245.33333333333331 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 233.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 235.33333333333331 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 223.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 213.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 215.33333333333331 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 203.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 193.33333333333331 l 7 4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 195.33333333333331 l 7 -4" stroke="#FFD1E0" stroke-width="2" stroke-opacity="0.4" />
+                     <path d="M 380 313.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 315.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 305.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 295.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 283.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 285.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 273.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 275.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 263.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 253.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 255.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 243.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 245.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 235.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 223.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 225.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
                      
 
                      <!-- Tooltip -->
-                     <title>my-cv (TypeScript) | Stars: 0</title>
+                     <title>code-review-graph (null) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/zintaen/code-audit" target="_blank">
+            <a href="https://github.com/zintaen/EverOS" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.45s" fill="freeze" />
                      
@@ -335,20 +335,20 @@
                      <ellipse cx="448" cy="340.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 433 320.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
-                     <path d="M 463 320.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
-                     <path d="M 448 313.3333333333333 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
+                     <path d="M 433 140.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 463 140.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 448 133.33333333333331 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 433 320.8333333333333 l 0 20 l 15 7.5 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 463 320.8333333333333 l 0 20 l -15 7.5 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 433 140.83333333333331 l 0 200 l 15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 463 140.83333333333331 l 0 200 l -15 7.5 l 0 -200 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     
+                     <path d="M 452 325.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 327.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 315.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 305.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 307.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 285.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 275.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 277.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 265.3333333333333 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 255.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 257.3333333333333 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 235.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 237.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 225.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 227.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 215.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 197.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 185.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 175.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 177.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 165.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 167.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 155.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 157.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 145.33333333333331 l 7 4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 147.33333333333331 l 7 -4" stroke="#FAD7FA" stroke-width="2" stroke-opacity="0.4" />
                      
 
                      <!-- Tooltip -->
-                     <title>code-audit (Python) | Stars: 0</title>
+                     <title>EverOS (null) | Stars: 0</title>
                 </g>
             </a>
         
