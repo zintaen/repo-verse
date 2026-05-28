@@ -93,20 +93,20 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/harper" target="_blank">
+            <a href="https://github.com/zintaen/repo-verse" target="_blank">
                 <g class="card" transform="translate(307.5, 70)">
                     <rect width="128.75" height="100" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
                     
                     <!-- Language Dot -->
-                    <circle cx="15" cy="20" r="4" fill="#999" />
+                    <circle cx="15" cy="20" r="4" fill="#3178C6" />
                     
                     <!-- Name -->
-                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">harper</text>
+                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">repo-verse</text>
                     
                     <!-- Desc -->
                     <foreignObject x="10" y="35" width="108.75" height="40">
                         <div xmlns="http://www.w3.org/1999/xhtml" style="color: #aaa; font-family: Segoe UI, sans-serif; font-size: 10px; line-height: 1.2; overflow: hidden;">
-                            Offline, privacy-first grammar checker. Fast, open...
+                            Generate a dynamic, animated SVG solar system of y...
                         </div>
                     </foreignObject>
 
@@ -124,7 +124,7 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/claude-mem" target="_blank">
+            <a href="https://github.com/zintaen/harper" target="_blank">
                 <g class="card" transform="translate(451.25, 70)">
                     <rect width="128.75" height="100" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
                     
@@ -132,12 +132,12 @@
                     <circle cx="15" cy="20" r="4" fill="#999" />
                     
                     <!-- Name -->
-                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">claude-mem</text>
+                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">harper</text>
                     
                     <!-- Desc -->
                     <foreignObject x="10" y="35" width="108.75" height="40">
                         <div xmlns="http://www.w3.org/1999/xhtml" style="color: #aaa; font-family: Segoe UI, sans-serif; font-size: 10px; line-height: 1.2; overflow: hidden;">
-                            Persistent Context Across Sessions for Every Agent...
+                            Offline, privacy-first grammar checker. Fast, open...
                         </div>
                     </foreignObject>
 
