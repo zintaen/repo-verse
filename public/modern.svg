@@ -26,7 +26,7 @@
   <g transform="translate(20, 20)">
      <image href="https://avatars.githubusercontent.com/u/9297971?v=4" x="0" y="0" width="40" height="40" clip-path="circle(20px at 20px 20px)" />
      <text x="50" y="18" fill="#fff" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold">Stephen Cheng</text>
-     <text x="50" y="36" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="12">@zintaen • 22 Repositories • 13 Followers</text>
+     <text x="50" y="36" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="12">@zintaen • 21 Repositories • 13 Followers</text>
   </g>
 
   <!-- Cards Container -->
@@ -62,20 +62,20 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/code-audit" target="_blank">
+            <a href="https://github.com/zintaen/repo-verse" target="_blank">
                 <g class="card" transform="translate(163.75, 70)">
                     <rect width="128.75" height="100" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
                     
                     <!-- Language Dot -->
-                    <circle cx="15" cy="20" r="4" fill="#3776AB" />
+                    <circle cx="15" cy="20" r="4" fill="#3178C6" />
                     
                     <!-- Name -->
-                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">code-audit</text>
+                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">repo-verse</text>
                     
                     <!-- Desc -->
                     <foreignObject x="10" y="35" width="108.75" height="40">
                         <div xmlns="http://www.w3.org/1999/xhtml" style="color: #aaa; font-family: Segoe UI, sans-serif; font-size: 10px; line-height: 1.2; overflow: hidden;">
-                            No description provided.
+                            Generate a dynamic, animated SVG solar system of y...
                         </div>
                     </foreignObject>
 
@@ -124,20 +124,20 @@
             </a>
         
 
-            <a href="https://github.com/zintaen/repo-verse" target="_blank">
+            <a href="https://github.com/zintaen/issue-hunter" target="_blank">
                 <g class="card" transform="translate(451.25, 70)">
                     <rect width="128.75" height="100" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
                     
                     <!-- Language Dot -->
-                    <circle cx="15" cy="20" r="4" fill="#3178C6" />
+                    <circle cx="15" cy="20" r="4" fill="#3776AB" />
                     
                     <!-- Name -->
-                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">repo-verse</text>
+                    <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">issue-hunter</text>
                     
                     <!-- Desc -->
                     <foreignObject x="10" y="35" width="108.75" height="40">
                         <div xmlns="http://www.w3.org/1999/xhtml" style="color: #aaa; font-family: Segoe UI, sans-serif; font-size: 10px; line-height: 1.2; overflow: hidden;">
-                            Generate a dynamic, animated SVG solar system of y...
+                            No description provided.
                         </div>
                     </foreignObject>
 
