@@ -114,7 +114,7 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: 3d-preriodic-table -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="39.426298150112274" fill="url(#planetGrad3D-1)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
+                <circle r="41.981369876777876" fill="url(#planetGrad3D-1)">
+                    <title>3d-preriodic-table (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="39.426298150112274" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="41.981369876777876" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -183,7 +183,7 @@
       </g>
     
 
-      <!-- Planet: 3d-preriodic-table -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
@@ -236,13 +236,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
-                <circle r="41.939661161270905" fill="url(#planetGrad3D-2)">
-                    <title>3d-preriodic-table (TypeScript)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="39.49936112196757" fill="url(#planetGrad3D-2)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="41.939661161270905" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="39.49936112196757" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -751,9 +751,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 649kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1521kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
@@ -762,9 +762,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1500kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 665kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
