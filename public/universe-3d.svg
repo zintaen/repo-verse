@@ -99,12 +99,12 @@
 
             <!-- Planet Visual -->
             <a href="https://github.com/zintaen/gam" target="_blank" style="cursor: pointer;">
-                <circle r="45.24348737953369" fill="url(#planetGrad3D-0)">
+                <circle r="46.02976173069946" fill="url(#planetGrad3D-0)">
                     <title>gam (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="45.24348737953369" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="46.02976173069946" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -114,7 +114,7 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: dom-defender -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="39.51735218038469" fill="url(#planetGrad3D-1)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/dom-defender" target="_blank" style="cursor: pointer;">
+                <circle r="35.13027535075774" fill="url(#planetGrad3D-1)">
+                    <title>dom-defender (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="39.51735218038469" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="35.13027535075774" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -183,7 +183,7 @@
       </g>
     
 
-      <!-- Planet: 3d-preriodic-table -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
@@ -236,13 +236,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
-                <circle r="41.981369876777876" fill="url(#planetGrad3D-2)">
-                    <title>3d-preriodic-table (TypeScript)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="39.583873752867646" fill="url(#planetGrad3D-2)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="41.981369876777876" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="39.583873752867646" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -252,12 +252,12 @@
       </g>
     
 
-      <!-- Planet: issue-hunter -->
+      <!-- Planet: 3d-preriodic-table -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -305,13 +305,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/issue-hunter" target="_blank" style="cursor: pointer;">
-                <circle r="37.369880512691765" fill="url(#planetGrad3D-3)">
-                    <title>issue-hunter (Python)</title>
+            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
+                <circle r="41.981369876777876" fill="url(#planetGrad3D-3)">
+                    <title>3d-preriodic-table (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="37.369880512691765" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="41.981369876777876" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -321,12 +321,12 @@
       </g>
     
 
-      <!-- Planet: harper -->
+      <!-- Planet: issue-hunter -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -374,13 +374,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/harper" target="_blank" style="cursor: pointer;">
-                <circle r="51.866322587207314" fill="url(#planetGrad3D-4)">
-                    <title>harper (null)</title>
+            <a href="https://github.com/zintaen/issue-hunter" target="_blank" style="cursor: pointer;">
+                <circle r="37.369880512691765" fill="url(#planetGrad3D-4)">
+                    <title>issue-hunter (Python)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="51.866322587207314" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="37.369880512691765" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -390,7 +390,7 @@
       </g>
     
 
-      <!-- Planet: claude-mem -->
+      <!-- Planet: harper -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-5" cx="30%" cy="30%" r="70%">
@@ -443,13 +443,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/claude-mem" target="_blank" style="cursor: pointer;">
-                <circle r="56.269155765192444" fill="url(#planetGrad3D-5)">
-                    <title>claude-mem (null)</title>
+            <a href="https://github.com/zintaen/harper" target="_blank" style="cursor: pointer;">
+                <circle r="51.866322587207314" fill="url(#planetGrad3D-5)">
+                    <title>harper (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="56.269155765192444" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="51.866322587207314" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -459,7 +459,7 @@
       </g>
     
 
-      <!-- Planet: huashu-design -->
+      <!-- Planet: claude-mem -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-6" cx="30%" cy="30%" r="70%">
@@ -512,13 +512,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/huashu-design" target="_blank" style="cursor: pointer;">
-                <circle r="56.936779458235755" fill="url(#planetGrad3D-6)">
-                    <title>huashu-design (null)</title>
+            <a href="https://github.com/zintaen/claude-mem" target="_blank" style="cursor: pointer;">
+                <circle r="56.269155765192444" fill="url(#planetGrad3D-6)">
+                    <title>claude-mem (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="56.936779458235755" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="56.269155765192444" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -528,7 +528,7 @@
       </g>
     
 
-      <!-- Planet: E2B -->
+      <!-- Planet: huashu-design -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-7" cx="30%" cy="30%" r="70%">
@@ -581,13 +581,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/E2B" target="_blank" style="cursor: pointer;">
-                <circle r="55.566863458475936" fill="url(#planetGrad3D-7)">
-                    <title>E2B (null)</title>
+            <a href="https://github.com/zintaen/huashu-design" target="_blank" style="cursor: pointer;">
+                <circle r="56.936779458235755" fill="url(#planetGrad3D-7)">
+                    <title>huashu-design (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="55.566863458475936" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="56.936779458235755" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -597,7 +597,7 @@
       </g>
     
 
-      <!-- Planet: EverOS -->
+      <!-- Planet: E2B -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-8" cx="30%" cy="30%" r="70%">
@@ -650,13 +650,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/EverOS" target="_blank" style="cursor: pointer;">
-                <circle r="51.56492526216393" fill="url(#planetGrad3D-8)">
-                    <title>EverOS (null)</title>
+            <a href="https://github.com/zintaen/E2B" target="_blank" style="cursor: pointer;">
+                <circle r="55.566863458475936" fill="url(#planetGrad3D-8)">
+                    <title>E2B (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="51.56492526216393" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="55.566863458475936" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -666,7 +666,7 @@
       </g>
     
 
-      <!-- Planet: chalk -->
+      <!-- Planet: EverOS -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-9" cx="30%" cy="30%" r="70%">
@@ -719,13 +719,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/chalk" target="_blank" style="cursor: pointer;">
-                <circle r="40.91781875390526" fill="url(#planetGrad3D-9)">
-                    <title>chalk (null)</title>
+            <a href="https://github.com/zintaen/EverOS" target="_blank" style="cursor: pointer;">
+                <circle r="51.56492526216393" fill="url(#planetGrad3D-9)">
+                    <title>EverOS (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.91781875390526" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="51.56492526216393" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -742,7 +742,7 @@
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
         <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> gam</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 4512kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 5864kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
@@ -751,9 +751,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dom-defender</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 669kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 155kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
@@ -762,9 +762,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1521kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 684kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
@@ -773,10 +773,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> issue-hunter</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 327kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1521kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -784,10 +784,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> harper</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 41032kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> issue-hunter</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 327kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -795,9 +795,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> claude-mem</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> harper</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 178032kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 41032kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
@@ -806,9 +806,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> huashu-design</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> claude-mem</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 222406kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 178032kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
@@ -817,9 +817,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> E2B</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> huashu-design</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 140874kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 222406kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
@@ -828,9 +828,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> EverOS</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> E2B</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 37110kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 140874kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
@@ -839,9 +839,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> chalk</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> EverOS</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1067kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 37110kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
