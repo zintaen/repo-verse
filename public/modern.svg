@@ -36,7 +36,7 @@
                     <rect width="128.75" height="100" rx="8" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
                     
                     <!-- Language Dot -->
-                    <circle cx="15" cy="20" r="4" fill="#3178C6" />
+                    <circle cx="15" cy="20" r="4" fill="#E34F26" />
                     
                     <!-- Name -->
                     <text x="25" y="24" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">kristen-calendar</text>
