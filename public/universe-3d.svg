@@ -45,7 +45,7 @@
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: my-cv -->
+      <!-- Planet: claude-certified-architect-foundations -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
@@ -98,13 +98,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/my-cv" target="_blank" style="cursor: pointer;">
-                <circle r="46.655907538941904" fill="url(#planetGrad3D-0)">
-                    <title>my-cv (TypeScript)</title>
+            <a href="https://github.com/zintaen/claude-certified-architect-foundations" target="_blank" style="cursor: pointer;">
+                <circle r="42.904462033236626" fill="url(#planetGrad3D-0)">
+                    <title>claude-certified-architect-foundations (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.655907538941904" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="42.904462033236626" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -114,7 +114,7 @@
       </g>
     
 
-      <!-- Planet: dom-defender -->
+      <!-- Planet: my-cv -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/dom-defender" target="_blank" style="cursor: pointer;">
-                <circle r="39.36087499667808" fill="url(#planetGrad3D-1)">
-                    <title>dom-defender (TypeScript)</title>
+            <a href="https://github.com/zintaen/my-cv" target="_blank" style="cursor: pointer;">
+                <circle r="46.66212945613929" fill="url(#planetGrad3D-1)">
+                    <title>my-cv (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="39.36087499667808" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="46.66212945613929" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -183,12 +183,12 @@
       </g>
     
 
-      <!-- Planet: kristen-calendar -->
+      <!-- Planet: wife-cv -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
-            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -236,13 +236,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/kristen-calendar" target="_blank" style="cursor: pointer;">
-                <circle r="43.52447877338004" fill="url(#planetGrad3D-2)">
-                    <title>kristen-calendar (HTML)</title>
+            <a href="https://github.com/zintaen/wife-cv" target="_blank" style="cursor: pointer;">
+                <circle r="51.57348216595517" fill="url(#planetGrad3D-2)">
+                    <title>wife-cv (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="43.52447877338004" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="51.57348216595517" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -252,12 +252,12 @@
       </g>
     
 
-      <!-- Planet: 3d-preriodic-table -->
+      <!-- Planet: issue-hunter -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -305,13 +305,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
-                <circle r="42.016664401516636" fill="url(#planetGrad3D-3)">
-                    <title>3d-preriodic-table (TypeScript)</title>
+            <a href="https://github.com/zintaen/issue-hunter" target="_blank" style="cursor: pointer;">
+                <circle r="37.599404170799886" fill="url(#planetGrad3D-3)">
+                    <title>issue-hunter (Python)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="42.016664401516636" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="37.599404170799886" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -321,12 +321,12 @@
       </g>
     
 
-      <!-- Planet: issue-hunter -->
+      <!-- Planet: kristen-calendar -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
+            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -374,13 +374,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/issue-hunter" target="_blank" style="cursor: pointer;">
-                <circle r="37.46913768644906" fill="url(#planetGrad3D-4)">
-                    <title>issue-hunter (Python)</title>
+            <a href="https://github.com/zintaen/kristen-calendar" target="_blank" style="cursor: pointer;">
+                <circle r="43.8078353100611" fill="url(#planetGrad3D-4)">
+                    <title>kristen-calendar (HTML)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="37.46913768644906" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="43.8078353100611" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -390,7 +390,7 @@
       </g>
     
 
-      <!-- Planet: wife-cv -->
+      <!-- Planet: dom-defender -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-5" cx="30%" cy="30%" r="70%">
@@ -443,13 +443,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/wife-cv" target="_blank" style="cursor: pointer;">
-                <circle r="51.57235340677069" fill="url(#planetGrad3D-5)">
-                    <title>wife-cv (TypeScript)</title>
+            <a href="https://github.com/zintaen/dom-defender" target="_blank" style="cursor: pointer;">
+                <circle r="39.521833137155035" fill="url(#planetGrad3D-5)">
+                    <title>dom-defender (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="51.57235340677069" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="39.521833137155035" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -459,7 +459,7 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: 3d-preriodic-table -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-6" cx="30%" cy="30%" r="70%">
@@ -512,13 +512,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="39.880153247747074" fill="url(#planetGrad3D-6)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/3d-preriodic-table" target="_blank" style="cursor: pointer;">
+                <circle r="42.072668602731056" fill="url(#planetGrad3D-6)">
+                    <title>3d-preriodic-table (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="39.880153247747074" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="42.072668602731056" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -528,12 +528,12 @@
       </g>
     
 
-      <!-- Planet: epd-carbon-compare -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-7" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -581,13 +581,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/epd-carbon-compare" target="_blank" style="cursor: pointer;">
-                <circle r="50.9169416109067" fill="url(#planetGrad3D-7)">
-                    <title>epd-carbon-compare (Python)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="39.95471562076918" fill="url(#planetGrad3D-7)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="50.9169416109067" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="39.95471562076918" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -597,12 +597,12 @@
       </g>
     
 
-      <!-- Planet: zintaen -->
+      <!-- Planet: epd-carbon-compare -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-8" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -650,13 +650,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/zintaen" target="_blank" style="cursor: pointer;">
-                <circle r="46.464754632292895" fill="url(#planetGrad3D-8)">
-                    <title>zintaen (null)</title>
+            <a href="https://github.com/zintaen/epd-carbon-compare" target="_blank" style="cursor: pointer;">
+                <circle r="50.9169416109067" fill="url(#planetGrad3D-8)">
+                    <title>epd-carbon-compare (Python)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.464754632292895" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="50.9169416109067" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -666,12 +666,12 @@
       </g>
     
 
-      <!-- Planet: auto-work-harness -->
+      <!-- Planet: zintaen -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-9" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -719,13 +719,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/auto-work-harness" target="_blank" style="cursor: pointer;">
-                <circle r="36.314237926769586" fill="url(#planetGrad3D-9)">
-                    <title>auto-work-harness (Python)</title>
+            <a href="https://github.com/zintaen/zintaen" target="_blank" style="cursor: pointer;">
+                <circle r="46.464754632292895" fill="url(#planetGrad3D-9)">
+                    <title>zintaen (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="36.314237926769586" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="46.464754632292895" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -740,9 +740,9 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> my-cv</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> claude-certified-architect-foundations</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 7225kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 2069kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
@@ -751,9 +751,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dom-defender</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> my-cv</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 635kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 7240kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
@@ -762,10 +762,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> kristen-calendar</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 2544kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> wife-cv</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 37216kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -773,10 +773,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1539kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> issue-hunter</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 353kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -784,10 +784,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> issue-hunter</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 338kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> kristen-calendar</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 2796kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -795,9 +795,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> wife-cv</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dom-defender</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 37202kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 670kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
@@ -806,9 +806,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 3d-preriodic-table</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 755kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1568kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
@@ -817,10 +817,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> epd-carbon-compare</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 29901kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 774kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -828,10 +828,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> zintaen</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6779kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> epd-carbon-compare</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 29901kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -839,10 +839,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> auto-work-harness</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 230kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> zintaen</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6779kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
       </g>
