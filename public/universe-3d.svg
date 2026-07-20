@@ -45,7 +45,7 @@
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: claude-certified-architect-foundations -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
@@ -98,13 +98,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/claude-certified-architect-foundations" target="_blank" style="cursor: pointer;">
-                <circle r="42.980342957521785" fill="url(#planetGrad3D-0)">
-                    <title>claude-certified-architect-foundations (TypeScript)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="40.17149732246362" fill="url(#planetGrad3D-0)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="42.980342957521785" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="40.17149732246362" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -114,7 +114,7 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: claude-certified-architect-foundations -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="40.11691728458001" fill="url(#planetGrad3D-1)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/claude-certified-architect-foundations" target="_blank" style="cursor: pointer;">
+                <circle r="42.980342957521785" fill="url(#planetGrad3D-1)">
+                    <title>claude-certified-architect-foundations (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.11691728458001" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="42.980342957521785" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -740,9 +740,9 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> claude-certified-architect-foundations</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 2122kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 832kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
@@ -751,9 +751,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> claude-certified-architect-foundations</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 817kb</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 2122kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
