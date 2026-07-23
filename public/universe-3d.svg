@@ -45,12 +45,12 @@
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: homebrew-cask -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -98,13 +98,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/homebrew-cask" target="_blank" style="cursor: pointer;">
-                <circle r="59.26327853059191" fill="url(#planetGrad3D-0)">
-                    <title>homebrew-cask (null)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="40.04256403637065" fill="url(#planetGrad3D-0)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="59.26327853059191" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="40.04256403637065" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -114,12 +114,12 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: homebrew-cask -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -167,13 +167,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="40.019893903302965" fill="url(#planetGrad3D-1)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/homebrew-cask" target="_blank" style="cursor: pointer;">
+                <circle r="59.26327853059191" fill="url(#planetGrad3D-1)">
+                    <title>homebrew-cask (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.019893903302965" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="59.26327853059191" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -740,10 +740,10 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> homebrew-cask</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 482994kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 797kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -751,10 +751,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 791kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> homebrew-cask</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 482994kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
       </g>
