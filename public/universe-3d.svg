@@ -183,12 +183,12 @@
       </g>
     
 
-      <!-- Planet: repo-verse -->
+      <!-- Planet: umlimator -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
+            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -236,13 +236,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="40.84381120584491" fill="url(#planetGrad3D-2)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/zintaen/umlimator" target="_blank" style="cursor: pointer;">
+                <circle r="40.67487769115676" fill="url(#planetGrad3D-2)">
+                    <title>umlimator (HTML)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.84381120584491" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="40.67487769115676" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -252,12 +252,12 @@
       </g>
     
 
-      <!-- Planet: caro-arena -->
+      <!-- Planet: super-board -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
-            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -305,13 +305,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/caro-arena" target="_blank" style="cursor: pointer;">
-                <circle r="40.33976572241676" fill="url(#planetGrad3D-3)">
-                    <title>caro-arena (JavaScript)</title>
+            <a href="https://github.com/zintaen/super-board" target="_blank" style="cursor: pointer;">
+                <circle r="46.524344732296576" fill="url(#planetGrad3D-3)">
+                    <title>super-board (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.33976572241676" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="46.524344732296576" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -321,12 +321,12 @@
       </g>
     
 
-      <!-- Planet: anatomy -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -374,13 +374,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/anatomy" target="_blank" style="cursor: pointer;">
-                <circle r="42.65671186268241" fill="url(#planetGrad3D-4)">
-                    <title>anatomy (null)</title>
+            <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="40.88956995761072" fill="url(#planetGrad3D-4)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="42.65671186268241" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="40.88956995761072" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -390,12 +390,12 @@
       </g>
     
 
-      <!-- Planet: zintaen -->
+      <!-- Planet: caro-arena -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-5" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
+            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -443,13 +443,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/zintaen" target="_blank" style="cursor: pointer;">
-                <circle r="46.464754632292895" fill="url(#planetGrad3D-5)">
-                    <title>zintaen (null)</title>
+            <a href="https://github.com/zintaen/caro-arena" target="_blank" style="cursor: pointer;">
+                <circle r="40.33976572241676" fill="url(#planetGrad3D-5)">
+                    <title>caro-arena (JavaScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.464754632292895" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="40.33976572241676" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -459,12 +459,12 @@
       </g>
     
 
-      <!-- Planet: my-cv -->
+      <!-- Planet: anatomy -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-6" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -512,13 +512,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/my-cv" target="_blank" style="cursor: pointer;">
-                <circle r="46.69345702853227" fill="url(#planetGrad3D-6)">
-                    <title>my-cv (TypeScript)</title>
+            <a href="https://github.com/zintaen/anatomy" target="_blank" style="cursor: pointer;">
+                <circle r="42.65671186268241" fill="url(#planetGrad3D-6)">
+                    <title>anatomy (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.69345702853227" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="42.65671186268241" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -528,12 +528,12 @@
       </g>
     
 
-      <!-- Planet: wife-cv -->
+      <!-- Planet: zintaen -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-7" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -581,13 +581,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/wife-cv" target="_blank" style="cursor: pointer;">
-                <circle r="51.57694641608836" fill="url(#planetGrad3D-7)">
-                    <title>wife-cv (TypeScript)</title>
+            <a href="https://github.com/zintaen/zintaen" target="_blank" style="cursor: pointer;">
+                <circle r="46.464754632292895" fill="url(#planetGrad3D-7)">
+                    <title>zintaen (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="51.57694641608836" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="46.464754632292895" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -597,12 +597,12 @@
       </g>
     
 
-      <!-- Planet: kristen-calendar -->
+      <!-- Planet: my-cv -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-8" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
-            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -650,13 +650,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/kristen-calendar" target="_blank" style="cursor: pointer;">
-                <circle r="44.33938131266534" fill="url(#planetGrad3D-8)">
-                    <title>kristen-calendar (HTML)</title>
+            <a href="https://github.com/zintaen/my-cv" target="_blank" style="cursor: pointer;">
+                <circle r="46.69345702853227" fill="url(#planetGrad3D-8)">
+                    <title>my-cv (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="44.33938131266534" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="46.69345702853227" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -666,7 +666,7 @@
       </g>
     
 
-      <!-- Planet: dom-defender -->
+      <!-- Planet: wife-cv -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-9" cx="30%" cy="30%" r="70%">
@@ -719,13 +719,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/zintaen/dom-defender" target="_blank" style="cursor: pointer;">
-                <circle r="40.068797807536896" fill="url(#planetGrad3D-9)">
-                    <title>dom-defender (TypeScript)</title>
+            <a href="https://github.com/zintaen/wife-cv" target="_blank" style="cursor: pointer;">
+                <circle r="51.57694641608836" fill="url(#planetGrad3D-9)">
+                    <title>wife-cv (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="40.068797807536896" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="51.57694641608836" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -762,10 +762,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1041kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> umlimator</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 984kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -773,10 +773,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> caro-arena</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 880kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> super-board</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6915kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -784,10 +784,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> anatomy</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1905kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1057kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -795,10 +795,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> zintaen</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 6779kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> caro-arena</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 880kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -806,10 +806,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> my-cv</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 7316kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> anatomy</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1905kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -817,9 +817,9 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> wife-cv</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 37259kb</text>
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> zintaen</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 6779kb</text>
         <rect x="20" y="565" width="0" height="2" fill="#FF4500">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
@@ -828,10 +828,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> kristen-calendar</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 3338kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> my-cv</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 7316kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -839,10 +839,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> dom-defender</text>
+        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> wife-cv</text>
         <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 804kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 37259kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
       </g>
