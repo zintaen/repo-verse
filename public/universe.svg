@@ -195,12 +195,12 @@
       </a>
     
 
-      <!-- Planet: umlimator -->
-      <a href="https://github.com/zintaen/umlimator" target="_blank" style="cursor: pointer;">
+      <!-- Planet: repo-verse -->
+      <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
-            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -220,12 +220,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="640" cy="300" r="40.67487769115676" fill="url(#planetGrad-2)">
-               <title>umlimator (HTML)</title>
+            <circle cx="640" cy="300" r="40.90090141584195" fill="url(#planetGrad-2)">
+               <title>repo-verse (TypeScript)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="640" cy="300" r="40.67487769115676" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="640" cy="300" r="40.90090141584195" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -234,12 +234,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="640" cy="300" r="48.80985322938811" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="640" cy="300" r="49.08108169901034" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="640" cy="300" r="50.67487769115676" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="640" cy="300" r="50.90090141584195" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.3;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 640 300" to="360 640 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -255,8 +255,8 @@
                   dur="22.727272727272727s" 
                   repeatCount="indefinite" 
               />
-              <text x="640" y="355.6748776911568" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                umlimator
+              <text x="640" y="355.90090141584193" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                repo-verse
               </text>
             </g>
           </g>
@@ -264,12 +264,12 @@
       </a>
     
 
-      <!-- Planet: super-board -->
-      <a href="https://github.com/zintaen/super-board" target="_blank" style="cursor: pointer;">
+      <!-- Planet: umlimator -->
+      <a href="https://github.com/zintaen/umlimator" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
+            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -289,12 +289,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="700" cy="300" r="46.524344732296576" fill="url(#planetGrad-3)">
-               <title>super-board (null)</title>
+            <circle cx="700" cy="300" r="41.25770439309683" fill="url(#planetGrad-3)">
+               <title>umlimator (HTML)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="700" cy="300" r="46.524344732296576" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
+            <circle cx="700" cy="300" r="41.25770439309683" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -303,12 +303,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="700" cy="300" r="55.82921367875589" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="700" cy="300" r="49.509245271716196" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="700" cy="300" r="56.524344732296576" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="700" cy="300" r="51.25770439309683" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3;0.4;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 700 300" to="360 700 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -324,8 +324,8 @@
                   dur="20s" 
                   repeatCount="indefinite" 
               />
-              <text x="700" y="361.5243447322966" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                super-board
+              <text x="700" y="356.25770439309684" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                umlimator
               </text>
             </g>
           </g>
@@ -333,12 +333,12 @@
       </a>
     
 
-      <!-- Planet: repo-verse -->
-      <a href="https://github.com/zintaen/repo-verse" target="_blank" style="cursor: pointer;">
+      <!-- Planet: super-board -->
+      <a href="https://github.com/zintaen/super-board" target="_blank" style="cursor: pointer;">
         <defs>
           <radialGradient id="planetGrad-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -358,12 +358,12 @@
             />
             
             <!-- Planet Body (3D Effect) -->
-            <circle cx="760" cy="300" r="40.88956995761072" fill="url(#planetGrad-4)">
-               <title>repo-verse (TypeScript)</title>
+            <circle cx="760" cy="300" r="46.524344732296576" fill="url(#planetGrad-4)">
+               <title>super-board (null)</title>
             </circle>
             
             <!-- Inner Rim Light (Atmosphere) -->
-            <circle cx="760" cy="300" r="40.88956995761072" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3">
+            <circle cx="760" cy="300" r="46.524344732296576" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3">
             </circle>
             
             <!-- Texture/Overlay -->
@@ -372,12 +372,12 @@
             
             
             <!-- Mood Glow -->
-            <circle cx="760" cy="300" r="49.06748394913286" fill="none" stroke="#00FF94" stroke-width="1" opacity="0.4" filter="url(#glow)">
+            <circle cx="760" cy="300" r="55.82921367875589" fill="none" stroke="#FF00E6" stroke-width="1" opacity="0.4" filter="url(#glow)">
               <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite" />
             </circle>
 
             <!-- Active Indicator (Ring when HUD is showing this planet) -->
-            <circle cx="760" cy="300" r="50.88956995761072" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
+            <circle cx="760" cy="300" r="56.524344732296576" fill="none" stroke="white" stroke-width="1.5" stroke-dasharray="3 3" opacity="0">
                <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4;0.5;1" dur="40s" repeatCount="indefinite" />
                <animateTransform attributeName="transform" type="rotate" from="0 760 300" to="360 760 300" dur="10s" repeatCount="indefinite" />
             </circle>
@@ -393,8 +393,8 @@
                   dur="17.857142857142858s" 
                   repeatCount="indefinite" 
               />
-              <text x="760" y="355.8895699576107" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
-                repo-verse
+              <text x="760" y="361.5243447322966" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="12" font-weight="bold" style="text-shadow: 0px 0px 4px black;">
+                super-board
               </text>
             </g>
           </g>
@@ -791,12 +791,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> umlimator</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 984kb</text>
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1061kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -807,9 +807,9 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> super-board</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6915kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> umlimator</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1195kb</text>
         
         <!-- Progress Bar -->
         <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
@@ -823,12 +823,12 @@
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
 
         <!-- Panel Content -->
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 1057kb</text>
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> super-board</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6915kb</text>
         
         <!-- Progress Bar -->
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
